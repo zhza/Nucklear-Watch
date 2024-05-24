@@ -1,108 +1,12 @@
-﻿  canvas.c
+﻿  main.c
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
 D:\project\13.nuklear\DrawUI\DrawUI\3rd\opengl\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\canvas.c(20,38): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\canvas.c(20,41): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\canvas.c(20,44): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\canvas.c(20,51): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
-  extended.c
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
-D:\project\13.nuklear\DrawUI\DrawUI\3rd\opengl\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
-  font.c
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
-D:\project\13.nuklear\DrawUI\DrawUI\3rd\opengl\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
-  main.c
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
-D:\project\13.nuklear\DrawUI\DrawUI\3rd\opengl\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\main.c(103,37): warning C4090: “=”: 不同的“const”限定符
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\main.c(106,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\main.c(104,37): warning C4090: “=”: 不同的“const”限定符
 D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\main.c(107,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-  nuklear_9slice.c
-  nuklear_buffer.c
-  nuklear_button.c
-  nuklear_chart.c
-  nuklear_color.c
-  nuklear_color_picker.c
-  nuklear_combo.c
-  nuklear_context.c
-  nuklear_contextual.c
-  nuklear_draw.c
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_draw.c(39,38): warning C4116: 括号中的未命名类型定义
-  nuklear_edit.c
-  nuklear_font.c
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_font.c(44,41): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_font.c(45,42): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_font.c(46,41): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_font.c(47,42): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_font.c(48,42): warning C4116: 括号中的未命名类型定义
-  nuklear_group.c
-  nuklear_image.c
-  nuklear_input.c
-  nuklear_layout.c
-  正在编译...
-  nuklear_list_view.c
-  nuklear_math.c
-  nuklear_menu.c
-  nuklear_page_element.c
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_page_element.c(25,42): warning C4116: 括号中的未命名类型定义
-  nuklear_panel.c
-  nuklear_pool.c
-  nuklear_popup.c
-  nuklear_progress.c
-  nuklear_property.c
-  nuklear_scrollbar.c
-  nuklear_selectable.c
-  nuklear_slider.c
-  nuklear_string.c
-  nuklear_style.c
-  nuklear_table.c
-  nuklear_text.c
-  nuklear_text_editor.c
-  nuklear_toggle.c
-  nuklear_tooltip.c
-  nuklear_tree.c
-  正在编译...
-  nuklear_utf8.c
-  nuklear_util.c
-  nuklear_vertex.c
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_vertex.c(105,44): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_vertex.c(134,42): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_vertex.c(245,43): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_vertex.c(442,46): warning C4116: 括号中的未命名类型定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\nuklear\nuklear_vertex.c(661,42): warning C4116: 括号中的未命名类型定义
-  nuklear_widget.c
-  nuklear_window.c
-  nuklear_glfw_gl2.c
-  style.c
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
-D:\project\13.nuklear\DrawUI\DrawUI\3rd\opengl\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
-  watch.c
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
-D:\project\13.nuklear\DrawUI\DrawUI\3rd\opengl\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(40,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(41,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(43,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(45,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(60,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(63,55): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(74,31): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(170,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(182,59): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(182,74): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(186,59): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(186,74): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(197,59): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(197,74): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(200,59): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(200,74): warning C4305: “函数”: 从“double”到“float”截断
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(219,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(301,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(277,55): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(383,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(344,28): warning C4133: “初始化”: 从“*”到“nk_watch_style *”的类型不兼容
-D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\watch.c(461,28): warning C4133: “初始化”: 从“*”到“nk_watch_style *”的类型不兼容
+D:\project\13.nuklear\DrawUI\DrawUI\Nuklear\src\main.c(108,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
   正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 496 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 496 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   Nuklear.vcxproj -> D:\project\13.nuklear\DrawUI\DrawUI\build\x64\Release\Nuklear.exe
